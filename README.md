@@ -25,13 +25,13 @@
 ![]()
 &nbsp;
 ### Lot 1 Coils
-![]()
+![](https://github.com/ethiry99/HW15_MechaCar_Statistical_Analysis/blob/main/Resources/t_test_PSI_Lot1.png)
 &nbsp;
 ### Lot 2 Coils
-![]()
+![](https://github.com/ethiry99/HW15_MechaCar_Statistical_Analysis/blob/main/Resources/t_test_PSI_Lot2.png)
 &nbsp;
 ### Lot 3 Coils
-![]()
+![](https://github.com/ethiry99/HW15_MechaCar_Statistical_Analysis/blob/main/Resources/t_test_PSI_Lot3.png)
 &nbsp;
 
  * ###      
