@@ -39,5 +39,12 @@
 &nbsp;
 
  * ###  In the Lot 3 coils, the p-value is observed to be 0.042.  In this case the null hypothesis is accepted and the mean does not equal 1500.    
-  
+ &nbsp;
+&nbsp;  
+## Study Design: MechaCar vs Competition (Deliverable #4)
+### An intersting analysis to consider would be comparing the cost of cars offered by MechaCar compared to competitors. This could be conducted to determine if there is a difference in the sales price of Mechacar cars vs the competitors.
+
+* ### The null hypothesis would that there is no difference.
+* ### Testing could be performed using the Two-Sample t-Test.  One sample would be MechaCar sales with the other being all car sales data.  I think it would be useful to first filter the data to only include cars with the same class.  It seems mostly useful to compare sub-compact to other sub-compacts or SUV to SUV, etc.
+* ### The data required for this analysis would be car class, car dealer, sales price.  Deeper analysis could be performed as a follow up using data such as MPG, color, make, model, safety features, etc.  
 
