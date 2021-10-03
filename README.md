@@ -16,6 +16,24 @@
 &nbsp;
 &nbsp;  
 ## Summary Statistics on Suspension Coils (Deliverable #2)
-      
+![](https://github.com/ethiry99/HW15_MechaCar_Statistical_Analysis/blob/main/Resources/summary_dataframe.png)
+ * ###  In reviewing the design specifications of the suspension coils it has been measured that Lot 3 is outside of the requirements.  A maximum variance is 100 psi while Lot 3 has a variance of over 170 psi.  Lot 1 and Lot 2 do meet the specifications with Lot 1 having a variance of just under 1 and the Lot 2 variance being about 7.5.
+&nbsp;
+&nbsp;  
+## T-Tests on Suspension Coils  (Deliverable #3)
+### All Coils
+![]()
+&nbsp;
+### Lot 1 Coils
+![]()
+&nbsp;
+### Lot 2 Coils
+![]()
+&nbsp;
+### Lot 3 Coils
+![]()
+&nbsp;
+
+ * ###      
   
 
