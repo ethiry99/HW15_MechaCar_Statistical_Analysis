@@ -22,18 +22,22 @@
 &nbsp;  
 ## T-Tests on Suspension Coils  (Deliverable #3)
 ### All Coils
-![]()
+![](https://github.com/ethiry99/HW15_MechaCar_Statistical_Analysis/blob/main/Resources/t_test_PSI_All_Lots.png)
+
+* ### In reviewing all the coils it can be seen that the p-value is greater than 0.05 indicating that the coils have an mean psi of 1500.
 &nbsp;
 ### Lot 1 Coils
 ![](https://github.com/ethiry99/HW15_MechaCar_Statistical_Analysis/blob/main/Resources/t_test_PSI_Lot1.png)
+* ### The Lot 1 coils have a p-value of 1. The null hypothesis is rejected and the mean of 1500 is satisfied.
 &nbsp;
 ### Lot 2 Coils
 ![](https://github.com/ethiry99/HW15_MechaCar_Statistical_Analysis/blob/main/Resources/t_test_PSI_Lot2.png)
+* ### The coils in Lot 2 calculated a p-value of 0.61.  Again the null hypothosis is rejected and this lot also meets the mean of 1500. 
 &nbsp;
 ### Lot 3 Coils
 ![](https://github.com/ethiry99/HW15_MechaCar_Statistical_Analysis/blob/main/Resources/t_test_PSI_Lot3.png)
 &nbsp;
 
- * ###      
+ * ###  In the Lot 3 coils, the p-value is observed to be 0.042.  In this case the null hypothesis is accepted and the mean does not equal 1500.    
   
 
