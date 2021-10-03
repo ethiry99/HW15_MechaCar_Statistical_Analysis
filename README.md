@@ -13,6 +13,9 @@
 &nbsp;
    * ### Does this linear model predict mpg of MechaCar prototypes effectively? 
       * ### The coefficients ground_clearance and vehicle_length effectively predict the mpg of MechaCar prototypes effectively because they have p-values less than 0.001.  The other coefficiants are above 0.05 and as such are not considered effective predictors
+&nbsp;
+&nbsp;  
+## Summary Statistics on Suspension Coils (Deliverable #2)
       
   
 
